@@ -2,6 +2,7 @@
 
 # Unofficial implementation of ACM MM 2018 paper: "BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network"
 
+it can successfully run.
 
 
 
@@ -16,3 +17,4 @@
 3. using generate.py to generate '*.txt' eg. 'train_MAKEMIX.txt.  
 
    put four txt files into ./data/makeup/makeup_final/
+4. python train.py 
